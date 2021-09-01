@@ -59,3 +59,13 @@ Manages the flow of data to connected devices by sending packets of information 
 
 What is Dhcp:
 Dynamic Host Configuration Protocol, used to automate the process of ip address assignments, so it doesnt have to be manually done.
+
+What is NAT:
+Network Address Translation, allows a single device, such as a router, to act as an agent between the Internet 
+(or public network) and a local network (or private network)
+
+What is PoE:
+Power over Ethernet,  technology that lets network cables carry electrical power.
+
+Switch:
+creates networks that allows for connections between networks for multiple devices.
