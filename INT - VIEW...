@@ -1,0 +1,61 @@
+Why do you want to be etc etc in our company?
+
+i've always had an interest in solving technical issues, and i truly believe being a tech support will allow me
+to refine my skills in the information technology field. 
+
+
+What is a common problem you solved?
+
+in my household im generally the go to guy whenever a troubleshoot or technical issue is present. i generally face
+different issues ranging from internet connections to software. ive been faced with multiple issues before and for an example
+there was a scenario there was a notebook device that kept disconnecting from the internet unexpectedly i had the trace where the fault 
+was coming from and it was not the modem, it was actually a faulter internet driver had been installed on the device, so i had to disable
+and reinstall the correct driver for the connection to be stable again.
+
+Ticket Scenario:
+User monitor not working..
+
+first check power supply for any issues, connect another monitor to check for faulty monitor,
+then check hardware faults such as vga/ dvi cables, then i would check display drivers.
+
+Safe Mode:
+Starts in the most basic state where most of the device drivers are not loaded and config.sys files.
+it helps to narrow down where a issue may be.
+
+Active Directory:
+A service by microsoft used to manage, organize and run networks. an easier way for system admins to find and use information
+related to all users connected to a network. (Consists of Domains, Contacts, Sites, Subnets etc)
+Can be used to assign policies or apply restrictions and as well remove users from a network. 
+
+Blue Screen of Death:
+A critical Error that occurs when an operating system cannot function, and ending up crashing.
+To solve i wil restart the device if successful, immediately update all drivers. if not successful, disconnect unnecessary hardware devices
+to rule out external issues, then reboot in safe mode. I can also check hard disk for bad sectors, system restore or use the startup repair function.
+
+Slow Computer:
+is generally due to the lack of suffiecient memory,  I can start by removing unnecesary temporary files and programs with the users permission.
+I can also use a defragmentation tool.
+
+Angry/ Unreasonable Client:
+Assure the client, be compassionate and actively listen to the clients requirements
+and let them know the issue will be looked at and will be resolved to the best of my expertise.
+
+Issue With Hardware Devices: eg printer, keyboard, mouse.:
+Check Power Source of Hardware Device if any, Connect substitute hardware device to rule out any connectivity issues, 
+update and install required drivers needed.
+
+Virus Detection: eg computer malfunction, unexplained slow speeds etc:
+It always a good habit to always ensure the safety of a system by running Anti virus detection software for potential malware and virus related problems
+
+PTR(Pointer Record):
+resolves an ip address to its full domain name. Often known as reversed DNS.
+
+Logical drive:
+A virtual storage that exists on a physical hard drive that acts independently. It is used to optimize storage performance to interact efficiently
+with the devices physical units.
+
+How does a Router Work:
+Manages the flow of data to connected devices by sending packets of information through routing tables.
+
+What is Dhcp:
+Dynamic Host Configuration Protocol, used to automate the process of ip address assignments, so it doesnt have to be manually done.
